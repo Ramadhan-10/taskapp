@@ -1,6 +1,6 @@
 # taskapp
 
-A new Flutter project.
+Latihan Flutter Bloc
 
 ## Getting Started
 
